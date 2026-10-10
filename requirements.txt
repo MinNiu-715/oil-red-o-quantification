@@ -1,0 +1,7 @@
+numpy>=1.24
+opencv-python-headless>=4.8
+pandas>=2.0
+matplotlib>=3.7
+# only needed when running with --watershed
+scipy>=1.10
+scikit-image>=0.21

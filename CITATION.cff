@@ -1,0 +1,32 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "Oil Red O lipid droplet quantification"
+abstract: "Fixed-threshold segmentation of Oil Red O-positive lipid droplets and quantification of the lipid droplet area fraction in histological liver sections and stained cultured cells."
+type: software
+authors:
+  - family-names: Niu
+    given-names: Min
+  - family-names: Zhang
+    given-names: Wenjie
+  - family-names: Fan
+    given-names: Yiming
+  - family-names: Liu
+    given-names: Jize
+  - family-names: Li
+    given-names: Mengxuan
+  - family-names: Wang
+    given-names: Yaosheng
+  - family-names: Li
+    given-names: Yiwei
+  - family-names: Ma
+    given-names: Qianhui
+  - family-names: Zhong
+    given-names: Mingwei
+  - family-names: Hu
+    given-names: Sanyuan
+version: 1.0.0
+date-released: "2026-10-10"
+license: MIT
+repository-code: "https://github.com/MinNiu-715/oil-red-o-quantification"
+# After archiving this release on Zenodo, paste the minted DOI below and uncomment:
+# doi: 10.5281/zenodo.XXXXXXX
